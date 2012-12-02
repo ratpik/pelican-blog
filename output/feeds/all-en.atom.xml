@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>42</title><link href="/" rel="alternate"></link><link href="/feeds/all-en.atom.xml" rel="self"></link><id>/</id><updated>2012-12-03T00:00:00+01:00</updated><entry><title>Hello</title><link href="/welcome.html" rel="alternate"></link><updated>2012-12-03T00:00:00+01:00</updated><author><name>Pratik Mandrekar</name></author><id>tag:,2012-12-03:welcome.html</id><summary type="html">&lt;p&gt;First post. Hello world!&lt;/p&gt;</summary><category term=""></category></entry></feed>
